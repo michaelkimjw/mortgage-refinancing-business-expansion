@@ -5,8 +5,3 @@ MortgCo is expanding their mortgage refinancing business to the state of Pennsyl
 MortgCo’s business problem is to find informative & descriptive attributes for profiling households and to build a predictive model which will discriminate between:
 1. Households which own house with mortgage or loan (include home equity loans)
 2. Households that own their homes free and clear
-
-datasets:
-1. American Consumer Survey data for Pennsylvania:  csv_hpa_2012_2016.zip
-2. Data Dictionary:  PUMS_Data_Dictionary_2012-2016.pdf 
-3. Overall description:  ACS2012_2016_PUMS_README.pdf
