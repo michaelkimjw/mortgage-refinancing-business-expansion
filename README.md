@@ -1,4 +1,4 @@
-# mortgage-refinancing-nusiness-expansion
+# mortgage-refinancing-business-expansion
 The Senior Data Scientist asked my team to engage on a project with Real Estate Mortgage Company (MortgCo).  
 MortgCo is expanding their mortgage refinancing business to the state of Pennsylvania, where they are targeting households, who already own their real estate, but are still paying mortgage.
 
